@@ -1,0 +1,19 @@
+body{
+  background-color: #FFF;
+}
+
+.main{
+  width: auto;
+}
+
+#counter{
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+}
+
+button{
+  font-weight: bold;
+  padding: 10px;
+}
